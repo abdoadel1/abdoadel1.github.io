@@ -410,6 +410,9 @@ margin-bottom: 10px;
     box-sizing: border-box;
     padding-left: 1%;
 }
+.contact-map iframe {
+    width: 100%;
+}
 @media screen and (max-width:767px) {
     .contact-txt {
         width: 100%;
