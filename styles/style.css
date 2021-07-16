@@ -421,7 +421,7 @@ margin-bottom: 10px;
         width: 100%;
         float: left;
         box-sizing: border-box;
-        padding-left: 0;
+        padding-left: 1%;
     }
     .contact-map iframe {
         width: 100%;
